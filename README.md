@@ -14,7 +14,7 @@
 
 ## Status
 
-This project is under constant development, but we do our best to keep things in a stable state. For intrested in development client contact "redevoncommunity@gmail.com" if you do wanna test it you can follow the steps below to get it set up and running! 
+This project is under constant development, but we do our best to keep things in a stable state. For intrested in development contact "redevoncommunity@gmail.com" if you do wanna test it you can follow the steps below to get it set up and running! 
 
 A few resources are available as starting points to getting involved and understanding the project:
 
