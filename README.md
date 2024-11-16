@@ -47,8 +47,8 @@ When working with the codebase, we recommend using an IDE with intelligent code 
 Clone the repository:
 
 ```shell
-git clone https://github.com/ppy/osu
-cd osu
+git clone https://github.com/Redev-Corp/osu-hex
+cd osu-hex
 ```
 
 To update the source code to the latest commit, run the following command inside the `vex` directory:
